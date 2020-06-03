@@ -20,7 +20,7 @@
      }
    },
    methods: {
-
+       getData
    },
    mounted() {
 
@@ -39,6 +39,7 @@
   border: 1px  solid  red;
   width: 1510px;
   height: 600px;
+ 
 
 }
 </style>
