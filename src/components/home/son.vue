@@ -38,8 +38,13 @@
           </div>
         </div>
       </div>
-      <div class="lb"></div>
+     
+
+  
+
+
     </div>
+
   </div>
 </template>
 
@@ -194,6 +199,7 @@ export default {
   height: 15px;
   margin-left: 10px;
   margin-top: 5px;
+   cursor: pointer;
 }
 .dd4-1 {
   margin-top: 15px;
@@ -214,16 +220,12 @@ export default {
   color: green;
   cursor: pointer;
 }
-.lb {
-  border: 1px solid red;
-  width: 1520px;
-  height: 500px;
-  background-color: red;
-}
+
 .hot {
   position: relative;
   width: 20px;
   height: 20px;
   bottom: 5px;
 }
+
 </style> 
